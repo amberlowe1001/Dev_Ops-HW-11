@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\PyGithub\.github\stale.yml">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\PyGithub\.github\workflows\ci.yml">
           <value>
             <Attribute>
